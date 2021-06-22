@@ -1,0 +1,2 @@
+rootProject.name = "HelloSimbirsoft"
+include ':app'
